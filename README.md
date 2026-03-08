@@ -11,4 +11,4 @@ I primarily use Python but I am learning C++, SFML and OpenGL to dive deeper int
 Fun facts:
 1. I like anime
 2. I like cooking
-3. I have one goat called Stella
+3. I have one goat called Stella🐐
